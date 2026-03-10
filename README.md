@@ -199,7 +199,7 @@ If you have any questions about backend development, distributed systems, or clo
 </div>
 
 <div align=center>
- <a href="www.linkedin.com/in/jh-monica/" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn" /></a>
+ <a href="httpS://www.linkedin.com/in/jh-monica/" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn" /></a>
 <a href="mailto:monicahuwork@gmail.com" ><img alt="Email" src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=" /></a>	
 
 <!--
